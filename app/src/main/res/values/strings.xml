@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Courseweb App Test</string>
+    <string name="the_courseweb_app">The courseweb App</string>
+    <string name="username">UserName</string>
+    <string name="insert">Insert</string>
+    <string name="user_list">User List</string>
+    <string name="type">Type</string>
+    <string name="password">Password</string>
+
+    <string-array name="type_array">
+        <item>Student</item>
+        <item>Employee</item>
+        <item>Teacher</item>
+    </string-array>
+
+
+</resources>
